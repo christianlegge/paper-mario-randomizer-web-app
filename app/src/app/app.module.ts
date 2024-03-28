@@ -57,6 +57,7 @@ import { ScrollingModule } from '@angular/cdk/scrolling';
 import { MatTabScrollToCenterDirective } from './utilities/directives/scrolling.directive';
 import { SpoilerSettingsComponent } from './pages/home/randomizer-page/spoiler-settings/spoiler-settings.component';
 import { GlitchesAndTricksComponent } from './pages/home/randomizer-page/glitches-and-tricks/glitches-and-tricks.component';
+import { ExcludeIndividualChecksComponent } from './pages/home/randomizer-page/exclude-individual-checks/exclude-individual-checks.component';
 import { ItemPoolSettingsComponent } from './pages/home/randomizer-page/item-pool-settings/item-pool-settings.component';
 
 const dbConfig: DBConfig  = {
@@ -102,7 +103,8 @@ const dbConfig: DBConfig  = {
     InfoDialogComponent,
     MatTabScrollToCenterDirective,
     SpoilerSettingsComponent,
-    GlitchesAndTricksComponent
+    GlitchesAndTricksComponent,
+    ExcludeIndividualChecksComponent
   ],
   imports: [
     BrowserModule,

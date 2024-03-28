@@ -1,0 +1,106 @@
+@import '../../../../../variables';
+
+.table-container {
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 15rem;
+    flex-basis: 85%;
+    flex-grow: 1;
+
+    .tricks-section {
+        margin-left: 3rem;
+        margin-bottom: 2rem;
+
+        flex-basis: 45%;
+        width: 45%;
+        flex-grow: 1;
+
+        .glitches-list {
+            padding-right: 1rem;
+            max-height: 40rem;
+            overflow-y: auto;
+            overflow-x: hidden;
+        }
+
+        .glitches-list::-webkit-scrollbar {
+            width: 8px;
+            height: 8px;
+        }
+        .glitches-list::-webkit-scrollbar-track {
+            background-color: $beige-background-secondary;
+            border-radius: 10px;
+          }
+        .glitches-list::-webkit-scrollbar-thumb {
+            background-color: $yellow-stat-border;
+            border-radius: 10px;
+          }
+    }    
+}
+
+.filter-section {
+    margin-bottom: 2rem;
+    flex-basis: 15%;
+}
+
+mat-selection-list, mat-list {
+    .mat-list-item {
+        
+        border: solid !important; 
+        border-width: 3px 3px 1px 3px !important;    
+        border-color: $yellow-stat-border !important;
+
+        button {
+            position: absolute;
+            top: 7px;
+            right: 0;
+            padding-right: 2px;
+
+            mat-icon {
+                font-size: 25px;
+            }
+        }
+        
+    }
+}
+
+h2 {
+    font-family: gluten;
+    text-align: center;
+}
+
+p.disclaimer {
+    font-family: gluten;
+    width: 100%;
+}
+
+span.no-results {
+    font-family: gluten;
+    font-size: 18px;
+    justify-content: center;
+    display: flex;
+    color:red;
+    margin-top: 1rem;
+}
+
+.yellow-button {
+    width: 120px;
+}
+
+.remove-button {
+    border: none;
+    background: none;
+    float: right;
+    cursor: pointer;
+    color: $yellow-stat-main
+}
+
+button:disabled {
+    cursor: not-allowed;
+    opacity: 30%;
+}
+
+a.disabled-link {
+    pointer-events: none;
+    cursor: default;
+    opacity: 0;
+}
