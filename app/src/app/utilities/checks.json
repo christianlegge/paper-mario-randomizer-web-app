@@ -1,0 +1,1373 @@
+{
+  "Prologue": [
+    { "name": "Furthest left bush", "settingName": "EICFurthestLeftBush" },
+    { "name": "Far right tree", "settingName": "EICFarRightTree" },
+    { "name": "2 more trees", "settingName": "EIC2MoreTrees" },
+    {
+      "name": "5 more bushes (6 items)",
+      "settingName": "EIC5MoreBushes6Items"
+    },
+    { "name": "Block on ground", "settingName": "EICBlockOnGround" },
+    { "name": "Right of stone block", "settingName": "EICRightOfStoneBlock" },
+    { "name": "4 items above spring", "settingName": "EIC4ItemsAboveSpring" },
+    { "name": "Far left ? Block", "settingName": "EICFarLeftblock" },
+    { "name": "Tree", "settingName": "EICTree" },
+    {
+      "name": "Item on ledge above spring",
+      "settingName": "EICItemOnLedgeAboveSpring"
+    },
+    {
+      "name": "? Block above stone block",
+      "settingName": "EICBlockAboveStoneBlock"
+    },
+    { "name": "Item on ledge", "settingName": "EICItemOnLedge" },
+    { "name": "Tree on ledge", "settingName": "EICTreeOnLedge" },
+    { "name": "Goompa Letter", "settingName": "EICGoompaLetter" },
+    {
+      "name": "Goompapa 1 (Chain) Letter",
+      "settingName": "EICGoompapa1chainletter"
+    },
+    {
+      "name": "Goompapa 2 (Chain) Letter",
+      "settingName": "EICGoompapa2chainletter"
+    },
+    {
+      "name": "Talk to Goompa after Koopa Koot asks for his Tape",
+      "settingName": "EICTalkToGoompaAfterKoopaKootAsksForHisTape"
+    },
+    { "name": "Goombario", "settingName": "EICGoombario" },
+    {
+      "name": "Give Dolly to Goombaria",
+      "settingName": "EICGiveDollyToGoombaria"
+    },
+    { "name": "Goompa", "settingName": "EICGoompa" },
+    { "name": "Goompa's Veranda", "settingName": "EICGoompasVeranda" },
+    { "name": "Tree", "settingName": "EICTree" },
+    { "name": "Bottom right bush", "settingName": "EICBottomRightBush" },
+    { "name": "Middle of the room", "settingName": "EICMiddleOfTheRoom" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "Sign", "settingName": "EICSign" },
+    {
+      "name": "Right side of Goomba King's Fortress near tree",
+      "settingName": "EICRightSideOfGoombaKingsFortressNearTree"
+    },
+    {
+      "name": "Tree left of the fortress",
+      "settingName": "EICTreeLeftOfTheFortress"
+    },
+    {
+      "name": "Break brick block to spawn ? Block",
+      "settingName": "EICBreakBrickBlockToSpawnblock"
+    },
+    {
+      "name": "Tree right of the fortress",
+      "settingName": "EICTreeRightOfTheFortress"
+    }
+  ],
+  "Toad Town": [
+    { "name": "Muss T. (Chain) Letter", "settingName": "EICMussTchainletter" },
+    { "name": "Right side of bridge", "settingName": "EICRightSideOfBridge" },
+    { "name": "On First Step", "settingName": "EICOnFirstStep" },
+    { "name": "Left from entrance", "settingName": "EICLeftFromEntrance" },
+    {
+      "name": "Talk to Luigi after Koopa Koot requests his autograph",
+      "settingName": "EICTalkToLuigiAfterKoopaKootRequestsHisAutograph"
+    },
+    {
+      "name": "In front of pot outside house",
+      "settingName": "EICInFrontOfPotOutsideHouse"
+    },
+    {
+      "name": "6 items from Merlow Star Piece Rewards",
+      "settingName": "EIC6ItemsFromMerlowStarPieceRewards"
+    },
+    { "name": "Merlow Letter", "settingName": "EICMerlowLetter" },
+    {
+      "name": "Give Merluvlee the Crystal Ball",
+      "settingName": "EICGiveMerluvleeTheCrystalBall"
+    },
+    { "name": "Chest on top of Gate", "settingName": "EICChestOnTopOfGate" },
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "By three toad sisters", "settingName": "EICByThreeToadSisters" },
+    {
+      "name": "Defeat Chan (logic from beginning)",
+      "settingName": "EICDefeatChanlogicFromBeginning"
+    },
+    {
+      "name": "Defeat Lee (logic after 2 star spirits)",
+      "settingName": "EICDefeatLeelogicAfter2StarSpirits"
+    },
+    {
+      "name": "Defeat Master 1 (logic after 3 star spirits)",
+      "settingName": "EICDefeatMaster1logicAfter3StarSpirits"
+    },
+    {
+      "name": "Defeat Master 2 (logic after 4 star spirits)",
+      "settingName": "EICDefeatMaster2logicAfter4StarSpirits"
+    },
+    {
+      "name": "Defeat Master 3 (logic after 5 star spirits)",
+      "settingName": "EICDefeatMaster3logicAfter5StarSpirits"
+    },
+    { "name": "Miss T. Letter", "settingName": "EICMissTletter" },
+    { "name": "Russ T. Letter", "settingName": "EICRussTletter" },
+    { "name": "6 items in Shop", "settingName": "EIC6ItemsInShop" },
+    {
+      "name": "Give Koopa Leaf to Trading Event Toad",
+      "settingName": "EICGiveKoopaLeafToTradingEventToad"
+    },
+    {
+      "name": "Give Dictionary to Russ T.",
+      "settingName": "EICGiveDictionaryToRussT"
+    },
+    { "name": "Item at Sushie panel", "settingName": "EICItemAtSushiePanel" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Merlon Letter", "settingName": "EICMerlonLetter" },
+    { "name": "Minh T. (Chain) Letter", "settingName": "EICMinhTchainletter" },
+    { "name": "4 items in Rowf's Shop", "settingName": "EIC4ItemsInRowfsShop" },
+    {
+      "name": "3 items in Rowf's Shop after clearing 1 chapter",
+      "settingName": "EIC3ItemsInRowfsShopAfterClearing1Chapter"
+    },
+    {
+      "name": "3 items in Rowf's Shop after clearing 2 chapters",
+      "settingName": "EIC3ItemsInRowfsShopAfterClearing2Chapters"
+    },
+    {
+      "name": "3 items in Rowf's Shop after clearing 3 chapters",
+      "settingName": "EIC3ItemsInRowfsShopAfterClearing3Chapters"
+    },
+    {
+      "name": "3 items in Rowf's Shop after clearing 4 chapters",
+      "settingName": "EIC3ItemsInRowfsShopAfterClearing4Chapters"
+    },
+    {
+      "name": "Tree by Merlon's house",
+      "settingName": "EICTreeByMerlonsHouse"
+    },
+    {
+      "name": "Give Calculator to Rowf",
+      "settingName": "EICGiveCalculatorToRowf"
+    },
+    {
+      "name": "Give Mailbag to Post Office",
+      "settingName": "EICGiveMailbagToPostOffice"
+    },
+    {
+      "name": "Ground Pound inside Merlon's house 3 times",
+      "settingName": "EICGroundPoundInsideMerlonsHouse3Times"
+    },
+    { "name": "Outside Club 64", "settingName": "EICOutsideClub64" },
+    {
+      "name": "Fishmael (Chain) Letter",
+      "settingName": "EICFishmaelchainletter"
+    },
+    {
+      "name": "Give Coconut to Trading Event Toad",
+      "settingName": "EICGiveCoconutToTradingEventToad"
+    },
+    {
+      "name": "Talk to Simon in Club 64 (first time)",
+      "settingName": "EICTalkToSimonInClub64firstTime"
+    },
+    {
+      "name": "Give Melody to Simon in Club 64",
+      "settingName": "EICGiveMelodyToSimonInClub64"
+    },
+    { "name": "Block on crates", "settingName": "EICBlockOnCrates" },
+    { "name": "6 items in Shop", "settingName": "EIC6ItemsInShop" },
+    {
+      "name": "Four items in Harry's Storeroom",
+      "settingName": "EICFourItemsInHarrysStoreroom"
+    },
+    { "name": "By guard house", "settingName": "EICByGuardHouse" },
+    { "name": "Talk to Fice T.", "settingName": "EICTalkToFiceT" },
+    { "name": "Fice T. Letter", "settingName": "EICFiceTletter" },
+    { "name": "Bub-ulb", "settingName": "EICBub-ulb" },
+    {
+      "name": "Give Frying Pan to Tayce T.",
+      "settingName": "EICGiveFryingPanToTayceT"
+    },
+    { "name": "Inside Blue House", "settingName": "EICInsideBlueHouse" },
+    {
+      "name": "Bottom right side of room",
+      "settingName": "EICBottomRightSideOfRoom"
+    },
+    {
+      "name": "Dane T. 1 (Chain) Letter",
+      "settingName": "EICDaneT1chainletter"
+    },
+    {
+      "name": "Dane T. 2 (Chain) Letter",
+      "settingName": "EICDaneT2chainletter"
+    }
+  ],
+  "Toad Town Tunnels": [
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "Middle ? Block", "settingName": "EICMiddleblock" },
+    {
+      "name": "Hidden block next to last brick block",
+      "settingName": "EICHiddenBlockNextToLastBrickBlock"
+    },
+    {
+      "name": "Third block from the left",
+      "settingName": "EICThirdBlockFromTheLeft"
+    },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Left invisible block", "settingName": "EICLeftInvisibleBlock" },
+    {
+      "name": "Middle invisible block",
+      "settingName": "EICMiddleInvisibleBlock"
+    },
+    {
+      "name": "Right invisible block",
+      "settingName": "EICRightInvisibleBlock"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Ultra Boots ? block", "settingName": "EICUltraBootsblock" },
+    { "name": "? Block 1", "settingName": "EICBlock1" },
+    { "name": "? Block 2", "settingName": "EICBlock2" },
+    { "name": "? Block 3", "settingName": "EICBlock3" },
+    { "name": "? Block 4", "settingName": "EICBlock4" },
+    { "name": "? Block 5", "settingName": "EICBlock5" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Chest", "settingName": "EICChest" },
+    {
+      "name": "Item on far right ledge",
+      "settingName": "EICItemOnFarRightLedge"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Ultra Boots chest", "settingName": "EICUltraBootsChest" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "Middle ? Block", "settingName": "EICMiddleblock" },
+    {
+      "name": "Invisible block left of pipe",
+      "settingName": "EICInvisibleBlockLeftOfPipe"
+    },
+    {
+      "name": "Invisible block between first and second spiny",
+      "settingName": "EICInvisibleBlockBetweenFirstAndSecondSpiny"
+    },
+    {
+      "name": "Invisible block next to visible ? block",
+      "settingName": "EICInvisibleBlockNextToVisibleblock"
+    },
+    { "name": "? Block by stone block", "settingName": "EICBlockByStoneBlock" },
+    {
+      "name": "All items from Rip Cheato - 11 total",
+      "settingName": "EICAllItemsFromRipCheato-11Total"
+    }
+  ],
+  "Pleasant Path": [
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Middle ? Block", "settingName": "EICMiddleblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "Kooper item", "settingName": "EICKooperItem" },
+    {
+      "name": "Item behind small fence",
+      "settingName": "EICItemBehindSmallFence"
+    },
+    {
+      "name": "Last block on the right",
+      "settingName": "EICLastBlockOnTheRight"
+    },
+    {
+      "name": "Middle of three pillars",
+      "settingName": "EICMiddleOfThreePillars"
+    },
+    {
+      "name": "Item behind right-most pillar",
+      "settingName": "EICItemBehindRight-mostPillar"
+    },
+    {
+      "name": "Break brick boxes (vanilla order: left, right, middle)",
+      "settingName": "EICBreakBrickBoxesvanillaOrder:Left,Right,Middle"
+    },
+    { "name": "Under 5 coins / items", "settingName": "EICUnder5Coins/Items" },
+    {
+      "name": "5 items at start of room",
+      "settingName": "EIC5ItemsAtStartOfRoom"
+    },
+    { "name": "Item on brick block", "settingName": "EICItemOnBrickBlock" },
+    {
+      "name": "Hidden ? block after bridge",
+      "settingName": "EICHiddenblockAfterBridge"
+    },
+    { "name": "Item in first tree", "settingName": "EICItemInFirstTree" },
+    {
+      "name": "Inside chest on ledge from bombable wall",
+      "settingName": "EICInsideChestOnLedgeFromBombableWall"
+    }
+  ],
+  "Koopa Village": [
+    {
+      "name": "Item Fuzzies are holding",
+      "settingName": "EICItemFuzziesAreHolding"
+    },
+    { "name": "On tall stump", "settingName": "EICOnTallStump" },
+    { "name": "6 items in Shop", "settingName": "EIC6ItemsInShop" },
+    { "name": "Left of tree", "settingName": "EICLeftOfTree" },
+    { "name": "Mort T. Letter", "settingName": "EICMortTletter" },
+    {
+      "name": "Koover 1 (Chain) Letter",
+      "settingName": "EICKoover1chainletter"
+    },
+    {
+      "name": "Koover 2 (Chain) Letter",
+      "settingName": "EICKoover2chainletter"
+    },
+    {
+      "name": "Far right bush after Koopa Koot requests his Wallet",
+      "settingName": "EICFarRightBushAfterKoopaKootRequestsHisWallet"
+    },
+    {
+      "name": "Second bush from left after Koopa Koot requests his Glasses",
+      "settingName": "EICSecondBushFromLeftAfterKoopaKootRequestsHisGlasses"
+    },
+    {
+      "name": "Bottom bush on left side",
+      "settingName": "EICBottomBushOnLeftSide"
+    },
+    {
+      "name": "Third bush from the right",
+      "settingName": "EICThirdBushFromTheRight"
+    },
+    { "name": "Far left bush", "settingName": "EICFarLeftBush" },
+    {
+      "name": "Second bush from the right",
+      "settingName": "EICSecondBushFromTheRight"
+    },
+    { "name": "Kolorado Letter", "settingName": "EICKoloradoLetter" },
+    {
+      "name": "Talk to Kolorado's wife after starting Koopa Koot's first favor",
+      "settingName": "EICTalkToKoloradosWifeAfterStartingKoopaKootsFirstFavor"
+    },
+    {
+      "name": "Return Koopa Legends to Koopa Koot",
+      "settingName": "EICReturnKoopaLegendsToKoopaKoot"
+    },
+    {
+      "name": "Give Koopa Koot a Sleepy Sheep (first item)",
+      "settingName": "EICGiveKoopaKootASleepySheepfirstItem"
+    },
+    {
+      "name": "Give Koopa Koot a Sleepy Sheep (second item)",
+      "settingName": "EICGiveKoopaKootASleepySheepsecondItem"
+    },
+    {
+      "name": "Return Koopa Koot's Tape",
+      "settingName": "EICReturnKoopaKootsTape"
+    },
+    {
+      "name": "Give Koopa Koot Koopa Tea",
+      "settingName": "EICGiveKoopaKootKoopaTea"
+    },
+    {
+      "name": "Give Luigi's Autograph to Koopa Koot",
+      "settingName": "EICGiveLuigisAutographToKoopaKoot"
+    },
+    {
+      "name": "Return Koopa Koot's wallet",
+      "settingName": "EICReturnKoopaKootsWallet"
+    },
+    {
+      "name": "Give Koopa Koot a Tasty Tonic",
+      "settingName": "EICGiveKoopaKootATastyTonic"
+    },
+    {
+      "name": "Give Merluvlee's Autograph to Koopa Koot",
+      "settingName": "EICGiveMerluvleesAutographToKoopaKoot"
+    },
+    {
+      "name": "Talk to Koopa Koot after reading the news in Toad Town",
+      "settingName": "EICTalkToKoopaKootAfterReadingTheNewsInToadTown"
+    },
+    {
+      "name": "Give Koopa Koot a Life Shroom (first item)",
+      "settingName": "EICGiveKoopaKootALifeShroomfirstItem"
+    },
+    {
+      "name": "Give Koopa Koot a Life Shroom (second item)",
+      "settingName": "EICGiveKoopaKootALifeShroomsecondItem"
+    },
+    {
+      "name": "Give Koopa Koot a Nutty Cake",
+      "settingName": "EICGiveKoopaKootANuttyCake"
+    },
+    {
+      "name": "Talk to Koopa Koot after calming the Bob-ombs",
+      "settingName": "EICTalkToKoopaKootAfterCalmingTheBob-ombs"
+    },
+    {
+      "name": "Give Koopa Koot the Old Photo",
+      "settingName": "EICGiveKoopaKootTheOldPhoto"
+    },
+    {
+      "name": "Give Koopa Koot Koopasta",
+      "settingName": "EICGiveKoopaKootKoopasta"
+    },
+    {
+      "name": "Return Koopa Koot's glasses",
+      "settingName": "EICReturnKoopaKootsGlasses"
+    },
+    {
+      "name": "Give Koopa Koot a Lime",
+      "settingName": "EICGiveKoopaKootALime"
+    },
+    {
+      "name": "Give Koopa Koot a Kooky Cookie",
+      "settingName": "EICGiveKoopaKootAKookyCookie"
+    },
+    {
+      "name": "Give Koopa Koot his package",
+      "settingName": "EICGiveKoopaKootHisPackage"
+    },
+    {
+      "name": "Give Koopa Koot a Coconut",
+      "settingName": "EICGiveKoopaKootACoconut"
+    },
+    {
+      "name": "Give Koopa Koot the Red Jar",
+      "settingName": "EICGiveKoopaKootTheRedJar"
+    },
+    { "name": "First bush on left", "settingName": "EICFirstBushOnLeft" },
+    { "name": "Give Kooper his shell", "settingName": "EICGiveKooperHisShell" },
+    {
+      "name": "Give Artifact to Kolorado",
+      "settingName": "EICGiveArtifactToKolorado"
+    },
+    {
+      "name": "Item on top of brick block on right (after defeating fuzzies)",
+      "settingName": "EICItemOnTopOfBrickBlockOnRightafterDefeatingFuzzies"
+    },
+    { "name": "Far right bush", "settingName": "EICFarRightBush" }
+  ],
+  "Koopa Bros. Fortress": [
+    {
+      "name": "Defeat Koopa by first locked door",
+      "settingName": "EICDefeatKoopaByFirstLockedDoor"
+    },
+    {
+      "name": "Top of room guarded by Bob-omb",
+      "settingName": "EICTopOfRoomGuardedByBob-omb"
+    },
+    {
+      "name": "? Block behind bombable rock",
+      "settingName": "EICBlockBehindBombableRock"
+    },
+    { "name": "Eldstar", "settingName": "EICEldstar" },
+    { "name": "Left Jail Cell", "settingName": "EICLeftJailCell" },
+    { "name": "Middle Jail Cell", "settingName": "EICMiddleJailCell" },
+    { "name": "Right Jail Cell", "settingName": "EICRightJailCell" },
+    {
+      "name": "Chest after bombable wall in trap room",
+      "settingName": "EICChestAfterBombableWallInTrapRoom"
+    },
+    { "name": "Item at end of room", "settingName": "EICItemAtEndOfRoom" },
+    { "name": "Bombette", "settingName": "EICBombette" }
+  ],
+  "Mt. Rugged": [
+    {
+      "name": "? Block left after taking spring",
+      "settingName": "EICBlockLeftAfterTakingSpring"
+    },
+    {
+      "name": "Circle of items across Parakarry gap",
+      "settingName": "EICCircleOfItemsAcrossParakarryGap"
+    },
+    {
+      "name": "2 items on ground below Parakarry gap",
+      "settingName": "EIC2ItemsOnGroundBelowParakarryGap"
+    },
+    {
+      "name": "? Block by Cleft when entering room",
+      "settingName": "EICBlockByCleftWhenEnteringRoom"
+    },
+    { "name": "Chest in cave", "settingName": "EICChestInCave" },
+    {
+      "name": "Item across Parakarry gap",
+      "settingName": "EICItemAcrossParakarryGap"
+    },
+    {
+      "name": "? Block past Cleft after spring",
+      "settingName": "EICBlockPastCleftAfterSpring"
+    },
+    {
+      "name": "Item on far right ledge",
+      "settingName": "EICItemOnFarRightLedge"
+    },
+    {
+      "name": "By wall near end of slide",
+      "settingName": "EICByWallNearEndOfSlide"
+    },
+    { "name": "Item on first ledge", "settingName": "EICItemOnFirstLedge" },
+    { "name": "Item on second ledge", "settingName": "EICItemOnSecondLedge" },
+    { "name": "Bub-ulb", "settingName": "EICBub-ulb" },
+    {
+      "name": "Item on support beam when falling through opening at the top",
+      "settingName": "EICItemOnSupportBeamWhenFallingThroughOpeningAtTheTop"
+    },
+    {
+      "name": "Item on ground by Cleft",
+      "settingName": "EICItemOnGroundByCleft"
+    },
+    { "name": "Item in top most bush", "settingName": "EICItemInTopMostBush" },
+    {
+      "name": "Give three letters to Parakarry",
+      "settingName": "EICGiveThreeLettersToParakarry"
+    },
+    { "name": "All 3 other bushes", "settingName": "EICAll3OtherBushes" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Three items on slide", "settingName": "EICThreeItemsOnSlide" },
+    { "name": "Hit Whacka", "settingName": "EICHitWhacka" },
+    { "name": "? Block", "settingName": "EICBlock" }
+  ],
+  "Dry Dry Desert": [
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "Center of room", "settingName": "EICCenterOfRoom" },
+    {
+      "name": "Give Nutty Cake to Trading Event Toad",
+      "settingName": "EICGiveNuttyCakeToTradingEventToad"
+    },
+    {
+      "name": "Behind cactus at top of room",
+      "settingName": "EICBehindCactusAtTopOfRoom"
+    },
+    { "name": "Tree", "settingName": "EICTree" },
+    { "name": "Block near tree", "settingName": "EICBlockNearTree" },
+    {
+      "name": "Hidden block above rock on right side",
+      "settingName": "EICHiddenBlockAboveRockOnRightSide"
+    },
+    {
+      "name": "Hammer yellow block once",
+      "settingName": "EICHammerYellowBlockOnce"
+    },
+    {
+      "name": "Hammer yellow block five times",
+      "settingName": "EICHammerYellowBlockFiveTimes"
+    },
+    {
+      "name": "Hammer yellow block ten times",
+      "settingName": "EICHammerYellowBlockTenTimes"
+    },
+    { "name": "Top-Left ? Block", "settingName": "EICTop-leftblock" },
+    { "name": "Top-Right ? Block", "settingName": "EICTop-rightblock" },
+    { "name": "Bottom-Left ? Block", "settingName": "EICBottom-leftblock" },
+    { "name": "Bottom-Right ? Block", "settingName": "EICBottom-rightblock" },
+    { "name": "Center ? Block", "settingName": "EICCenterblock" },
+    {
+      "name": "Hidden block in the middle of three trees",
+      "settingName": "EICHiddenBlockInTheMiddleOfThreeTrees"
+    },
+    { "name": "Second from right", "settingName": "EICSecondFromRight" },
+    { "name": "Third from right", "settingName": "EICThirdFromRight" },
+    { "name": "Tree", "settingName": "EICTree" },
+    {
+      "name": "Tree at camp location after saving Mamar",
+      "settingName": "EICTreeAtCampLocationAfterSavingMamar"
+    },
+    { "name": "Center block", "settingName": "EICCenterBlock" },
+    { "name": "Below stone cactus", "settingName": "EICBelowStoneCactus" },
+    { "name": "Nomadimouse Letter", "settingName": "EICNomadimouseLetter" },
+    { "name": "Tree", "settingName": "EICTree" },
+    { "name": "Far left tree", "settingName": "EICFarLeftTree" },
+    { "name": "Far right tree", "settingName": "EICFarRightTree" },
+    { "name": "Far left tree", "settingName": "EICFarLeftTree" },
+    { "name": "Second tree from left", "settingName": "EICSecondTreeFromLeft" },
+    {
+      "name": "Fourth tree from right",
+      "settingName": "EICFourthTreeFromRight"
+    },
+    {
+      "name": "3-6 random shop items (depends on Random Puzzles setting)",
+      "settingName": "EIC3-6RandomShopItemsdependsOnRandomPuzzlesSetting"
+    },
+    { "name": "Shop (Chain) Letter", "settingName": "EICShopchainletter" },
+    {
+      "name": "Buy Red Jar code items (vanilla: Dusty, Pasta, Dusty, Shroom; learn from Koot at last favor)",
+      "settingName": "EICBuyRedJarCodeItemsvanilla:Dusty,Pasta,Dusty,Shroom;LearnFromKootAtLastFavor"
+    },
+    {
+      "name": "Turn in Lyrics at far right house",
+      "settingName": "EICTurnInLyricsAtFarRightHouse"
+    },
+    { "name": "Red tree", "settingName": "EICRedTree" },
+    { "name": "On rooftops", "settingName": "EICOnRooftops" },
+    { "name": "Mr. E (Chain) Letter", "settingName": "EICMrechainletter" },
+    {
+      "name": "Talk to Merlee after Merluvlee requests Crystal Ball",
+      "settingName": "EICTalkToMerleeAfterMerluvleeRequestsCrystalBall"
+    },
+    { "name": "Item on rooftops", "settingName": "EICItemOnRooftops" },
+    {
+      "name": "Talk to Moustafa after buying code items (vanilla: Shroom, Dusty; give Lemon to Sheek to learn)",
+      "settingName": "EICTalkToMoustafaAfterBuyingCodeItemsvanilla:Shroom,Dusty;GiveLemonToSheekToLearn"
+    },
+    {
+      "name": "? Block in middle of room",
+      "settingName": "EICBlockInMiddleOfRoom"
+    },
+    {
+      "name": "? Block in middle of room",
+      "settingName": "EICBlockInMiddleOfRoom"
+    },
+    { "name": "Center block", "settingName": "EICCenterBlock" },
+    {
+      "name": "Item on ledge (take Tweester in room down left from here)",
+      "settingName": "EICItemOnLedgetakeTweesterInRoomDownLeftFromHere"
+    },
+    {
+      "name": "Item on brick block, requires Kooper or Super Boots",
+      "settingName": "EICItemOnBrickBlock,RequiresKooperOrSuperBoots"
+    },
+    {
+      "name": "? Block in middle of room",
+      "settingName": "EICBlockInMiddleOfRoom"
+    },
+    {
+      "name": "Hidden block directly above other ? Block",
+      "settingName": "EICHiddenBlockDirectlyAboveOtherblock"
+    },
+    { "name": "Bottom tree", "settingName": "EICBottomTree" },
+    {
+      "name": "Item behind bush on right side of room",
+      "settingName": "EICItemBehindBushOnRightSideOfRoom"
+    },
+    { "name": "Tree", "settingName": "EICTree" },
+    { "name": "Block near tree", "settingName": "EICBlockNearTree" },
+    { "name": "Lemon Tree", "settingName": "EICLemonTree" },
+    { "name": "Lime Tree", "settingName": "EICLimeTree" },
+    { "name": "Far left tree", "settingName": "EICFarLeftTree" },
+    { "name": "Bottom right tree", "settingName": "EICBottomRightTree" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    {
+      "name": "Hidden block in middle of room",
+      "settingName": "EICHiddenBlockInMiddleOfRoom"
+    },
+    { "name": "Far right tree", "settingName": "EICFarRightTree" },
+    { "name": "Six Multicoin Blocks", "settingName": "EICSixMulticoinBlocks" }
+  ],
+  "Dry Dry Ruins": [
+    { "name": "Inside middle coffin", "settingName": "EICInsideMiddleCoffin" },
+    {
+      "name": "Bottom right corner after lowering sand",
+      "settingName": "EICBottomRightCornerAfterLoweringSand"
+    },
+    {
+      "name": "Item on elevated platform",
+      "settingName": "EICItemOnElevatedPlatform"
+    },
+    {
+      "name": "Item on elevated platform",
+      "settingName": "EICItemOnElevatedPlatform"
+    },
+    {
+      "name": "Item in chest behind wall on ledge above Super Hammer chest",
+      "settingName": "EICItemInChestBehindWallOnLedgeAboveSuperHammerChest"
+    },
+    { "name": "Super Hammer chest", "settingName": "EICSuperHammerChest" },
+    {
+      "name": "Defeat all three Pokey's after hitting ? Block",
+      "settingName": "EICDefeatAllThreePokeysAfterHittingblock"
+    },
+    {
+      "name": "On ledge behind hammer block",
+      "settingName": "EICOnLedgeBehindHammerBlock"
+    },
+    { "name": "Item on pedestal", "settingName": "EICItemOnPedestal" },
+    { "name": "Item on pedestal", "settingName": "EICItemOnPedestal" },
+    { "name": "Item on pedestal", "settingName": "EICItemOnPedestal" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    {
+      "name": "Item on ledge, reachable by breaking block and hitting switch",
+      "settingName": "EICItemOnLedge,ReachableByBreakingBlockAndHittingSwitch"
+    },
+    { "name": "Mamar", "settingName": "EICMamar" }
+  ],
+  "Forever Forest": [
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "Bub-ulb", "settingName": "EICBub-ulb" },
+    { "name": "? Block", "settingName": "EICBlock" }
+  ],
+  "Boo's Mansion": [
+    { "name": "Bow", "settingName": "EICBow" },
+    { "name": "Chest guarded by Boo", "settingName": "EICChestGuardedByBoo" },
+    { "name": "By couch", "settingName": "EICByCouch" },
+    { "name": "Franky (Chain) Letter", "settingName": "EICFrankychainletter" },
+    {
+      "name": "Talk to Franky after Koopa Koot requests the Old Photo",
+      "settingName": "EICTalkToFrankyAfterKoopaKootRequestsTheOldPhoto"
+    },
+    { "name": "Middle of room", "settingName": "EICMiddleOfRoom" },
+    {
+      "name": "Open middle cabinets and do minigame",
+      "settingName": "EICOpenMiddleCabinetsAndDoMinigame"
+    },
+    {
+      "name": "In front of grandfather clock downstairs",
+      "settingName": "EICInFrontOfGrandfatherClockDownstairs"
+    },
+    {
+      "name": "Left crate on right side of room",
+      "settingName": "EICLeftCrateOnRightSideOfRoom"
+    },
+    {
+      "name": "Right crate on right side of room under other crate",
+      "settingName": "EICRightCrateOnRightSideOfRoomUnderOtherCrate"
+    },
+    { "name": "? Block before gate", "settingName": "EICBlockBeforeGate" },
+    {
+      "name": "Right bush before Gusty Gulch",
+      "settingName": "EICRightBushBeforeGustyGulch"
+    },
+    {
+      "name": "Item on right bookshelf",
+      "settingName": "EICItemOnRightBookshelf"
+    },
+    { "name": "Bottom crate", "settingName": "EICBottomCrate" },
+    {
+      "name": "Right crate on left side of room",
+      "settingName": "EICRightCrateOnLeftSideOfRoom"
+    },
+    { "name": "Super Boots chest", "settingName": "EICSuperBootsChest" },
+    { "name": "On left near Boo", "settingName": "EICOnLeftNearBoo" },
+    { "name": "Bottom left crate", "settingName": "EICBottomLeftCrate" },
+    { "name": "6 items in Shop", "settingName": "EIC6ItemsInShop" },
+    { "name": "Igor Letter", "settingName": "EICIgorLetter" }
+  ],
+  "Gusty Gulch": [
+    { "name": "Near gate", "settingName": "EICNearGate" },
+    { "name": "Skolar", "settingName": "EICSkolar" },
+    {
+      "name": "Block in far right house",
+      "settingName": "EICBlockInFarRightHouse"
+    },
+    {
+      "name": "Talk to Boo near Save Block after Koopa Koot requests a Package",
+      "settingName": "EICTalkToBooNearSaveBlockAfterKoopaKootRequestsAPackage"
+    },
+    { "name": "First ? Block", "settingName": "EICFirstblock" },
+    {
+      "name": "Upper ? Block near goomba",
+      "settingName": "EICUpperblockNearGoomba"
+    },
+    {
+      "name": "Item on ledge (use Kooper)",
+      "settingName": "EICItemOnLedgeuseKooper"
+    },
+    {
+      "name": "? Block in middle near goomba",
+      "settingName": "EICBlockInMiddleNearGoomba"
+    },
+    { "name": "Item in front of log", "settingName": "EICItemInFrontOfLog" },
+    { "name": "? Block by exit", "settingName": "EICBlockByExit" },
+    { "name": "? Block by Goomba", "settingName": "EICBlockByGoomba" },
+    {
+      "name": "Item behind rock near exit",
+      "settingName": "EICItemBehindRockNearExit"
+    },
+    { "name": "Near exit", "settingName": "EICNearExit" }
+  ],
+  "Tubba's Castle": [
+    { "name": "Item at end of hall", "settingName": "EICItemAtEndOfHall" },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    {
+      "name": "? Block at bottom of staircase",
+      "settingName": "EICBlockAtBottomOfStaircase"
+    },
+    { "name": "6 items on bed", "settingName": "EIC6ItemsOnBed" },
+    {
+      "name": "Behind wall on shelf at left side of room",
+      "settingName": "EICBehindWallOnShelfAtLeftSideOfRoom"
+    },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "On table", "settingName": "EICOnTable" },
+    {
+      "name": "On left side, break panels in room above behind bombable wall",
+      "settingName": "EICOnLeftSide,BreakPanelsInRoomAboveBehindBombableWall"
+    },
+    {
+      "name": "On table, fall down from above",
+      "settingName": "EICOnTable,FallDownFromAbove"
+    },
+    { "name": "Chest", "settingName": "EICChest" }
+  ],
+  "Shy Guy's Toybox": [
+    { "name": "Left hidden block", "settingName": "EICLeftHiddenBlock" },
+    { "name": "Right hidden block", "settingName": "EICRightHiddenBlock" },
+    {
+      "name": "Items held by Shy Guys (all of them)",
+      "settingName": "EICItemsHeldByShyGuysallOfThem"
+    },
+    { "name": "? Block on left side", "settingName": "EICBlockOnLeftSide" },
+    {
+      "name": "Anti Guy Chest (in logic if you can make a Lemon Candy [Lemon + Cake Mix])",
+      "settingName": "EICAntiGuyChestinLogicIfYouCanMakeALemonCandy[lemon+CakeMix]"
+    },
+    {
+      "name": "Hidden block on right side",
+      "settingName": "EICHiddenBlockOnRightSide"
+    },
+    { "name": "In front of station", "settingName": "EICInFrontOfStation" },
+    {
+      "name": "Hidden block on right side",
+      "settingName": "EICHiddenBlockOnRightSide"
+    },
+    {
+      "name": "3 items on left spring",
+      "settingName": "EIC3ItemsOnLeftSpring"
+    },
+    {
+      "name": "5 items on elevated spring",
+      "settingName": "EIC5ItemsOnElevatedSpring"
+    },
+    {
+      "name": "? Block on left side of wall",
+      "settingName": "EICBlockOnLeftSideOfWall"
+    },
+    {
+      "name": "? Block on right side of wall that can be jumped across",
+      "settingName": "EICBlockOnRightSideOfWallThatCanBeJumpedAcross"
+    },
+    {
+      "name": "Item behind fallen blocks",
+      "settingName": "EICItemBehindFallenBlocks"
+    },
+    {
+      "name": "Item on roof of left house",
+      "settingName": "EICItemOnRoofOfLeftHouse"
+    },
+    { "name": "? Block on platform", "settingName": "EICBlockOnPlatform" },
+    {
+      "name": "Item that Kammy spawns",
+      "settingName": "EICItemThatKammySpawns"
+    },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    {
+      "name": "Give Cake to Gourmet Guy",
+      "settingName": "EICGiveCakeToGourmetGuy"
+    },
+    {
+      "name": "Hidden block left after Gourmet Guy arch",
+      "settingName": "EICHiddenBlockLeftAfterGourmetGuyArch"
+    },
+    {
+      "name": "Hidden block between two other ? Blocks",
+      "settingName": "EICHiddenBlockBetweenTwoOtherblocks"
+    },
+    { "name": "? Block before Spy Guy", "settingName": "EICBlockBeforeSpyGuy" },
+    {
+      "name": "Left ? Block by Groove Guy",
+      "settingName": "EICLeftblockByGrooveGuy"
+    },
+    {
+      "name": "Right ? Block by Groove Guy",
+      "settingName": "EICRightblockByGrooveGuy"
+    },
+    { "name": "Between two ? Blocks", "settingName": "EICBetweenTwoblocks" },
+    { "name": "In front of station", "settingName": "EICInFrontOfStation" },
+    { "name": "Chest on right side", "settingName": "EICChestOnRightSide" },
+    {
+      "name": "Hidden block by pink switch",
+      "settingName": "EICHiddenBlockByPinkSwitch"
+    },
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "Chest on wall", "settingName": "EICChestOnWall" },
+    { "name": "Chest after door", "settingName": "EICChestAfterDoor" },
+    {
+      "name": "Item that Kammy spawns",
+      "settingName": "EICItemThatKammySpawns"
+    },
+    { "name": "Chest at end of room", "settingName": "EICChestAtEndOfRoom" },
+    { "name": "In front of station", "settingName": "EICInFrontOfStation" },
+    {
+      "name": "Hidden block in upper right corner",
+      "settingName": "EICHiddenBlockInUpperRightCorner"
+    },
+    {
+      "name": "3 items on first treadmill",
+      "settingName": "EIC3ItemsOnFirstTreadmill"
+    },
+    {
+      "name": "3 items on second treadmill",
+      "settingName": "EIC3ItemsOnSecondTreadmill"
+    },
+    {
+      "name": "Ring of coins inside fort after moving blocks",
+      "settingName": "EICRingOfCoinsInsideFortAfterMovingBlocks"
+    },
+    {
+      "name": "Item held by Shy Guy after treadmills",
+      "settingName": "EICItemHeldByShyGuyAfterTreadmills"
+    },
+    {
+      "name": "On pink moving platform",
+      "settingName": "EICOnPinkMovingPlatform"
+    },
+    {
+      "name": "Middle item inside fort after moving blocks",
+      "settingName": "EICMiddleItemInsideFortAfterMovingBlocks"
+    },
+    {
+      "name": "Item that Kammy spawns",
+      "settingName": "EICItemThatKammySpawns"
+    },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Watt", "settingName": "EICWatt" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    {
+      "name": "Hidden block by first elevator",
+      "settingName": "EICHiddenBlockByFirstElevator"
+    },
+    {
+      "name": "Hidden block between two other ? blocks",
+      "settingName": "EICHiddenBlockBetweenTwoOtherblocks"
+    },
+    {
+      "name": "Hidden block by door to Lantern Ghost room",
+      "settingName": "EICHiddenBlockByDoorToLanternGhostRoom"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "On top of wheel", "settingName": "EICOnTopOfWheel" },
+    { "name": "In front of station", "settingName": "EICInFrontOfStation" },
+    {
+      "name": "Hidden block on left side",
+      "settingName": "EICHiddenBlockOnLeftSide"
+    },
+    {
+      "name": "? Block just past barricade",
+      "settingName": "EICBlockJustPastBarricade"
+    },
+    {
+      "name": "Item on top of brick block",
+      "settingName": "EICItemOnTopOfBrickBlock"
+    },
+    { "name": "? Block at end of room", "settingName": "EICBlockAtEndOfRoom" },
+    { "name": "Muskular", "settingName": "EICMuskular" }
+  ],
+  "Yoshi's Island": [
+    { "name": "Near middle of room", "settingName": "EICNearMiddleOfRoom" },
+    { "name": "Far right tree", "settingName": "EICFarRightTree" },
+    {
+      "name": "Item on the outside Raph's Tree",
+      "settingName": "EICItemOnTheOutsideRaphsTree"
+    },
+    {
+      "name": "Talk to Raphael at the top",
+      "settingName": "EICTalkToRaphaelAtTheTop"
+    },
+    { "name": "Second Tree vine", "settingName": "EICSecondTreeVine" },
+    { "name": "Last Tree vine", "settingName": "EICLastTreeVine" },
+    { "name": "Far left tree", "settingName": "EICFarLeftTree" },
+    {
+      "name": "Hidden block near first push block",
+      "settingName": "EICHiddenBlockNearFirstPushBlock"
+    },
+    {
+      "name": "Hidden block near bell plant",
+      "settingName": "EICHiddenBlockNearBellPlant"
+    },
+    {
+      "name": "Tree vine near bell plant",
+      "settingName": "EICTreeVineNearBellPlant"
+    },
+    { "name": "Tree near bell plant", "settingName": "EICTreeNearBellPlant" },
+    { "name": "Item under water", "settingName": "EICItemUnderWater" },
+    {
+      "name": "Item in tree by right side exit",
+      "settingName": "EICItemInTreeByRightSideExit"
+    },
+    { "name": "Tree on ledge", "settingName": "EICTreeOnLedge" },
+    {
+      "name": "Second bush from right",
+      "settingName": "EICSecondBushFromRight"
+    },
+    { "name": "Second bush from left", "settingName": "EICSecondBushFromLeft" },
+    {
+      "name": "Item under water on right side of room",
+      "settingName": "EICItemUnderWaterOnRightSideOfRoom"
+    },
+    {
+      "name": "Tree near raven statue",
+      "settingName": "EICTreeNearRavenStatue"
+    },
+    { "name": "Tree", "settingName": "EICTree" },
+    {
+      "name": "2 items on spinning flower",
+      "settingName": "EIC2ItemsOnSpinningFlower"
+    },
+    { "name": "Coconut tree", "settingName": "EICCoconutTree" },
+    {
+      "name": "Item behind bush near top of screen",
+      "settingName": "EICItemBehindBushNearTopOfScreen"
+    },
+    {
+      "name": "Three items under water",
+      "settingName": "EICThreeItemsUnderWater"
+    },
+    {
+      "name": "Hidden block near exit to NW Jungle",
+      "settingName": "EICHiddenBlockNearExitToNwJungle"
+    },
+    { "name": "Tree near north exit", "settingName": "EICTreeNearNorthExit" },
+    { "name": "Tree near Spear Guy", "settingName": "EICTreeNearSpearGuy" },
+    {
+      "name": "Right bush near north exit",
+      "settingName": "EICRightBushNearNorthExit"
+    },
+    {
+      "name": "Bottom bush on left side",
+      "settingName": "EICBottomBushOnLeftSide"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "? Block on island", "settingName": "EICBlockOnIsland" },
+    { "name": "Far right tree", "settingName": "EICFarRightTree" },
+    { "name": "Bottom left bush", "settingName": "EICBottomLeftBush" },
+    { "name": "Bottom right bush", "settingName": "EICBottomRightBush" },
+    { "name": "Sushie", "settingName": "EICSushie" },
+    {
+      "name": "Item on top right island",
+      "settingName": "EICItemOnTopRightIsland"
+    },
+    {
+      "name": "Item in tree on top right island",
+      "settingName": "EICItemInTreeOnTopRightIsland"
+    },
+    {
+      "name": "Chest after saving Misstar",
+      "settingName": "EICChestAfterSavingMisstar"
+    },
+    {
+      "name": "2 items on spinning flower",
+      "settingName": "EIC2ItemsOnSpinningFlower"
+    },
+    {
+      "name": "Coconut tree 1 (far left)",
+      "settingName": "EICCoconutTree1farLeft"
+    },
+    { "name": "Coconut tree 2", "settingName": "EICCoconutTree2" },
+    {
+      "name": "Hidden block by left bell plant",
+      "settingName": "EICHiddenBlockByLeftBellPlant"
+    },
+    { "name": "Coconut tree 3", "settingName": "EICCoconutTree3" },
+    {
+      "name": "Item on rock formation",
+      "settingName": "EICItemOnRockFormation"
+    },
+    { "name": "Coconut tree 4", "settingName": "EICCoconutTree4" },
+    {
+      "name": "Hidden block by right bell plant",
+      "settingName": "EICHiddenBlockByRightBellPlant"
+    },
+    { "name": "Coconut tree 5", "settingName": "EICCoconutTree5" },
+    {
+      "name": "Coconut tree 6 (last tree, 2 items)",
+      "settingName": "EICCoconutTree6lastTree,2Items"
+    },
+    {
+      "name": "In front of raven statue",
+      "settingName": "EICInFrontOfRavenStatue"
+    },
+    {
+      "name": "Talk to Yoshi Chief after saving all the kids",
+      "settingName": "EICTalkToYoshiChiefAfterSavingAllTheKids"
+    },
+    { "name": "Left Coconut tree", "settingName": "EICLeftCoconutTree" },
+    { "name": "Right Coconut tree", "settingName": "EICRightCoconutTree" },
+    { "name": "6 items in Shop", "settingName": "EIC6ItemsInShop" },
+    {
+      "name": "Red Yoshi Kid (Chain) Letter",
+      "settingName": "EICRedYoshiKidchainletter"
+    },
+    {
+      "name": "Give a Tayce T. item to Yellow Adult Yoshi",
+      "settingName": "EICGiveATayceTitemToYellowAdultYoshi"
+    },
+    {
+      "name": "Give the volcano vase to Kolorado",
+      "settingName": "EICGiveTheVolcanoVaseToKolorado"
+    },
+    {
+      "name": "Coconut tree on right side of room",
+      "settingName": "EICCoconutTreeOnRightSideOfRoom"
+    },
+    {
+      "name": "Item behind large tree",
+      "settingName": "EICItemBehindLargeTree"
+    }
+  ],
+  "Mt. Lavalava": [
+    { "name": "? Block 1", "settingName": "EICBlock1" },
+    { "name": "? Block 2", "settingName": "EICBlock2" },
+    { "name": "? Block 3", "settingName": "EICBlock3" },
+    { "name": "? Block 4", "settingName": "EICBlock4" },
+    {
+      "name": "Item on top of brick block",
+      "settingName": "EICItemOnTopOfBrickBlock"
+    },
+    {
+      "name": "Item on platform halfway down second zip line",
+      "settingName": "EICItemOnPlatformHalfwayDownSecondZipLine"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    {
+      "name": "Right side of lower level",
+      "settingName": "EICRightSideOfLowerLevel"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Left of heart block", "settingName": "EICLeftOfHeartBlock" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "Ultra Hammer chest", "settingName": "EICUltraHammerChest" },
+    {
+      "name": "Hidden block on right side of room",
+      "settingName": "EICHiddenBlockOnRightSideOfRoom"
+    },
+    { "name": "Misstar", "settingName": "EICMisstar" },
+    { "name": "Chest", "settingName": "EICChest" }
+  ],
+  "Flower Fields": [
+    {
+      "name": "Ride cloud elevator up to item",
+      "settingName": "EICRideCloudElevatorUpToItem"
+    },
+    { "name": "Klevar", "settingName": "EICKlevar" },
+    { "name": "Lakilester", "settingName": "EICLakilester" },
+    { "name": "Item in grass", "settingName": "EICItemInGrass" },
+    { "name": "Item in crevasse", "settingName": "EICItemInCrevasse" },
+    { "name": "Item on ledge", "settingName": "EICItemOnLedge" },
+    {
+      "name": "Item in vines immediately below ledge item",
+      "settingName": "EICItemInVinesImmediatelyBelowLedgeItem"
+    },
+    {
+      "name": "Item in second vine (jump or use Parakarry to trigger it)",
+      "settingName": "EICItemInSecondVinejumpOrUseParakarryToTriggerIt"
+    },
+    {
+      "name": "Item from ground pounding opposite side from partner upgrade block",
+      "settingName": "EICItemFromGroundPoundingOppositeSideFromPartnerUpgradeBlock"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    {
+      "name": "Item in grass at bottom of screen",
+      "settingName": "EICItemInGrassAtBottomOfScreen"
+    },
+    {
+      "name": "? Block before cloud machine room",
+      "settingName": "EICBlockBeforeCloudMachineRoom"
+    },
+    {
+      "name": "Give Rosie the Crystal Berry",
+      "settingName": "EICGiveRosieTheCrystalBerry"
+    },
+    { "name": "Right of exit pipe", "settingName": "EICRightOfExitPipe" },
+    {
+      "name": "Hidden block between brick block and spring",
+      "settingName": "EICHiddenBlockBetweenBrickBlockAndSpring"
+    },
+    {
+      "name": "Hidden block above brick block",
+      "settingName": "EICHiddenBlockAboveBrickBlock"
+    },
+    {
+      "name": "Hit trees (talk to bottom left NPC in previous screen for order; vanilla: Middle, Right, Left)",
+      "settingName": "EICHitTreestalkToBottomLeftNpcInPreviousScreenForOrder;Vanilla:Middle,Right,Left"
+    },
+    { "name": "Second set of vines", "settingName": "EICSecondSetOfVines" },
+    {
+      "name": "Near bottom left corner of room directly above grass",
+      "settingName": "EICNearBottomLeftCornerOfRoomDirectlyAboveGrass"
+    },
+    { "name": "2 items in tree", "settingName": "EIC2ItemsInTree" },
+    {
+      "name": "Talk to Petunia and defeat all moles",
+      "settingName": "EICTalkToPetuniaAndDefeatAllMoles"
+    },
+    {
+      "name": "Give a blue berry to the well",
+      "settingName": "EICGiveABlueBerryToTheWell"
+    },
+    { "name": "2 items from Posie", "settingName": "EIC2ItemsFromPosie" },
+    { "name": "In front of tree", "settingName": "EICInFrontOfTree" },
+    { "name": "2 items in tree", "settingName": "EIC2ItemsInTree" },
+    { "name": "Item in middle vines", "settingName": "EICItemInMiddleVines" },
+    {
+      "name": "Vines next to yellow flower",
+      "settingName": "EICVinesNextToYellowFlower"
+    },
+    { "name": "2 items in tree", "settingName": "EIC2ItemsInTree" },
+    {
+      "name": "Item in grass right of tree",
+      "settingName": "EICItemInGrassRightOfTree"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    {
+      "name": "Under hidden block on right side",
+      "settingName": "EICUnderHiddenBlockOnRightSide"
+    },
+    { "name": "? Block on left side", "settingName": "EICBlockOnLeftSide" },
+    { "name": "2 items in tree", "settingName": "EIC2ItemsInTree" },
+    {
+      "name": "Hidden ? Block on right side",
+      "settingName": "EICHiddenblockOnRightSide"
+    },
+    {
+      "name": "Give Water Stone to Lily",
+      "settingName": "EICGiveWaterStoneToLily"
+    },
+    { "name": "Item in tree", "settingName": "EICItemInTree" }
+  ],
+  "Shiver Region": [
+    {
+      "name": "? Block up first set of stairs",
+      "settingName": "EICBlockUpFirstSetOfStairs"
+    },
+    {
+      "name": "Item on ledge when falling down after second set of stairs",
+      "settingName": "EICItemOnLedgeWhenFallingDownAfterSecondSetOfStairs"
+    },
+    {
+      "name": "Sacred item sealed away for centuries",
+      "settingName": "EICSacredItemSealedAwayForCenturies"
+    },
+    { "name": "Left pillar", "settingName": "EICLeftPillar" },
+    { "name": "Middle pillar", "settingName": "EICMiddlePillar" },
+    { "name": "Right pillar", "settingName": "EICRightPillar" },
+    {
+      "name": "Item below Kooper switch",
+      "settingName": "EICItemBelowKooperSwitch"
+    },
+    { "name": "Super Block Upgrade", "settingName": "EICSuperBlockUpgrade" },
+    { "name": "Ultra Boots block", "settingName": "EICUltraBootsBlock" },
+    {
+      "name": "Next to the Mayor's house",
+      "settingName": "EICNextToTheMayorsHouse"
+    },
+    { "name": "Mayor Penguin Letter", "settingName": "EICMayorPenguinLetter" },
+    {
+      "name": "Talk to Mayor after having met Merle",
+      "settingName": "EICTalkToMayorAfterHavingMetMerle"
+    },
+    { "name": "Chest in middle house", "settingName": "EICChestInMiddleHouse" },
+    { "name": "6 items in Shop", "settingName": "EIC6ItemsInShop" },
+    { "name": "Item in the Inn", "settingName": "EICItemInTheInn" },
+    {
+      "name": "5 items in the Inn after giving Scarf and Bucket to snowmen",
+      "settingName": "EIC5ItemsInTheInnAfterGivingScarfAndBucketToSnowmen"
+    },
+    { "name": "Item in lake", "settingName": "EICItemInLake" },
+    { "name": "Along bottom of room", "settingName": "EICAlongBottomOfRoom" },
+    {
+      "name": "Hit left pine tree 4 times",
+      "settingName": "EICHitLeftPineTree4Times"
+    },
+    {
+      "name": "Item behind pine tree in top right corner",
+      "settingName": "EICItemBehindPineTreeInTopRightCorner"
+    },
+    { "name": "Item behind ice", "settingName": "EICItemBehindIce" },
+    {
+      "name": "Hidden block where you fight Monstar",
+      "settingName": "EICHiddenBlockWhereYouFightMonstar"
+    },
+    {
+      "name": "Frost T. (Chain) Letter",
+      "settingName": "EICFrostTchainletter"
+    },
+    { "name": "Talk to Merle", "settingName": "EICTalkToMerle" }
+  ],
+  "Crystal Palace": [
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Item on ledge", "settingName": "EICItemOnLedge" },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Under block", "settingName": "EICUnderBlock" },
+    { "name": "? Block", "settingName": "EICBlock" },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Item in cave", "settingName": "EICItemInCave" },
+    {
+      "name": "2 Blocks past blue door",
+      "settingName": "EIC2BlocksPastBlueDoor"
+    },
+    {
+      "name": "Chest, blow up right wall in switch room",
+      "settingName": "EICChest,BlowUpRightWallInSwitchRoom"
+    },
+    { "name": "Chest", "settingName": "EICChest" },
+    { "name": "Kalmar", "settingName": "EICKalmar" },
+    { "name": "Under block", "settingName": "EICUnderBlock" },
+    { "name": "? Block", "settingName": "EICBlock" }
+  ],
+  "Bowser's Castle": [
+    { "name": "Item on floor", "settingName": "EICItemOnFloor" },
+    { "name": "Item on Floor", "settingName": "EICItemOnFloor" },
+    { "name": "Koopatrol fight", "settingName": "EICKoopatrolFight" },
+    { "name": "Left ? Block", "settingName": "EICLeftblock" },
+    { "name": "Center ? Block", "settingName": "EICCenterblock" },
+    { "name": "Right ? Block", "settingName": "EICRightblock" },
+    { "name": "Item on ledge", "settingName": "EICItemOnLedge" },
+    {
+      "name": "Hidden ? Block in Dry Bones room (left)",
+      "settingName": "EICHiddenblockInDryBonesRoomleft"
+    },
+    {
+      "name": "? Block in Dry Bones room (right)",
+      "settingName": "EICBlockInDryBonesRoomright"
+    },
+    {
+      "name": "Item on floor in back left room",
+      "settingName": "EICItemOnFloorInBackLeftRoom"
+    },
+    {
+      "name": "Hidden ? Block on path to second chain",
+      "settingName": "EICHiddenblockOnPathToSecondChain"
+    },
+    {
+      "name": "Item on upper left ledge",
+      "settingName": "EICItemOnUpperLeftLedge"
+    },
+    { "name": "6 items in shop", "settingName": "EIC6ItemsInShop" },
+    { "name": "Koopatrol fight", "settingName": "EICKoopatrolFight" },
+    { "name": "Lower left crate", "settingName": "EICLowerLeftCrate" },
+    { "name": "Right crate", "settingName": "EICRightCrate" },
+    { "name": "Koopatrol fight", "settingName": "EICKoopatrolFight" },
+    { "name": "? Block on ledges", "settingName": "EICBlockOnLedges" },
+    { "name": "6 items in shop", "settingName": "EIC6ItemsInShop" },
+    {
+      "name": "? Block on platform near prison",
+      "settingName": "EICBlockOnPlatformNearPrison"
+    },
+    { "name": "Item in side room", "settingName": "EICItemInSideRoom" },
+    { "name": "Item on left platform", "settingName": "EICItemOnLeftPlatform" },
+    {
+      "name": "Item on right platform",
+      "settingName": "EICItemOnRightPlatform"
+    },
+    { "name": "Left ? block", "settingName": "EICLeftblock" },
+    { "name": "Right ? block", "settingName": "EICRightblock" }
+  ],
+  "Peach's Castle": [
+    { "name": "Star Rod", "settingName": "EICStarRod" },
+    { "name": "Item between shelves", "settingName": "EICItemBetweenShelves" },
+    { "name": "Item on ledge", "settingName": "EICItemOnLedge" },
+    { "name": "Item on floor", "settingName": "EICItemOnFloor" },
+    { "name": "Hidden ? Block", "settingName": "EICHiddenblock" },
+    { "name": "Chest", "settingName": "EICChest" }
+  ]
+}
